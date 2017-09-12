@@ -50,7 +50,7 @@ individuals across thegenome (equivalent to r/qtl: geno.image)
 (Broman and Sen 2009).
 
 3) mq_missinggenotype_plot, this figure highlights missing marker scores for all
-individuals across the genome (equivalent to r/qtl: plot.missing)
+individuals across the genome (equivalent to r/qtl: plotMissing)
 (Broman and Sen 2009).
 
 4) mq_comparegenotypes_plot, this figure represents the pairwise number of alleles
@@ -58,7 +58,7 @@ shared by each pair of individuals (equivalent to r/qtl: comparegeno)
 (Broman and Sen 2009).
 
 5) mq_cf_plot, this figure represents the pairwise recombination fraction
-among each pair of markers (equivalent to r/qtl: plot.rf).
+among each pair of markers (equivalent to r/qtl: plotRF).
 (Broman and Sen 2009).
 
 6) mq_genotypic_distortion_plot, this figure represents the -log(p-values)
@@ -127,4 +127,3 @@ Broman KW, Sen S (2009) A Guide to QTL Mapping with R/qtl.
 \seealso{
 qtl.cross
 }
-
